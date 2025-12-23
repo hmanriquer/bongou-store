@@ -3,6 +3,7 @@ import HeroSection from '@/components/hero-section';
 import InfoSection from '@/components/info-section';
 import LikeHomeSection from '@/components/like-home-section';
 import ContactSection from '@/components/contact-section';
+import Footer from '@/components/footer';
 
 export default function Main() {
   return (
@@ -12,6 +13,7 @@ export default function Main() {
       <InfoSection />
       <LikeHomeSection />
       <ContactSection />
+      <Footer />
     </div>
   );
 }
