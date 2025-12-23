@@ -28,12 +28,6 @@ export function Header() {
               SOBRE NOSOTROS
             </Link>
             <Link
-              href="/menu"
-              className="text-foreground hover:text-foreground/80 text-sm font-medium transition-colors"
-            >
-              MENU
-            </Link>
-            <Link
               href="/products"
               className="text-foreground hover:text-foreground/80 text-sm font-medium transition-colors"
             >
